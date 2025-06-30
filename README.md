@@ -1,0 +1,3 @@
+# Simple Heart Disease Prediction Model
+
+This project focuses on predicting the presence of heart disease using machine learning classification models, specifically Logistic Regression and XGBoost. It uses a structured dataset containing patient information such as age, cholesterol, blood pressure, and other clinical features. The data is preprocessed to handle missing or categorical values, scaled appropriately, and split into training and testing sets. Both models are trained and compared based on performance metrics like accuracy, precision, recall, and ROC-AUC to evaluate their effectiveness in identifying individuals at risk of heart disease.
