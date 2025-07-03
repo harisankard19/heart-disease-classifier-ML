@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load trained model
-model = joblib.load(model2.pkl)  # Make sure this file is in the same repo
+model = joblib.load("model2.pkl")  # Make sure this file is in the same repo
 
 st.title("Heart Disease Prediction")
 
